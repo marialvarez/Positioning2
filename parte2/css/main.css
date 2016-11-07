@@ -1,0 +1,39 @@
+.azul {
+    background-color: dodgerblue;
+    position:relative;
+    margin:20px;
+    width: 200px;
+    height: 200px;
+}
+.verde {
+    background-color: green;
+    position:absolute;
+    width:100px;
+    height:100px;
+    top:50px;
+    left:50px;
+}
+.negro {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.dis{
+    border-spacing:5px;
+    border-style: inset;
+    border-radius: 150%;
+    background-color: #00FFFF;
+    text-align:center;
+    display:inline;
+    padding:20px;
+    color:black;
+    position:absolute;
+    margin:60px 40px;   
+}
+a:hover {
+    color: crimson;
+    background-color: black;
+}

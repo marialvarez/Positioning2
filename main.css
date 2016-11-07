@@ -1,0 +1,35 @@
+body {
+    background-image: url(symphony.png);
+    font-family:'Comfortaa', cursive; 
+}
+
+.dis {
+    border-spacing:5px;
+    border-style: inset;
+    border-radius: 150%;
+    background-color: #00FFFF;
+    text-align:center;
+    display:inline;
+    padding:20px;
+    color:black;
+}
+
+h1 {
+    font-size:70px;
+    text-align: center;
+    color:black;
+}
+
+div{
+    font-size:40px;
+    text-align:center;    
+}
+
+a:visited {
+    color:darkblue;
+}
+
+a:hover {
+    text-decoration:none;
+    color:#D3D3D3;
+}s
